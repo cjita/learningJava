@@ -4,7 +4,7 @@ abstract class Car{
         public void playMusic(){
             System.out.println("playing music");
         }
-        
+        //methods can be declared in abstract class
         public abstract void drive();
         public abstract void fly();
         
@@ -12,6 +12,7 @@ abstract class Car{
     }
     
 abstract class WagonR extends Car{
+    //when we extend abstract class it is compulsory to implement all its abstract methods
     public  void drive(){
         System.out.println("driving car");
     }
