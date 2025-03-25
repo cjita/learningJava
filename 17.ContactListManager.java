@@ -1,5 +1,5 @@
 /******************************************************************************
-
+This code is copy and pasted so please ignore if learning 
     Contact List Manager: Build a program that reads a list of contacts from a file 
     and allows the 
     user to add new contacts, displaying appropriate error messages for invalid inputs.
