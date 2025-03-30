@@ -1,3 +1,5 @@
+//the set is stored in arranged/ascending order 
+
 import java.util.Set;
 import java.util.TreeSet;
 
