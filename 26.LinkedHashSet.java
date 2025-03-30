@@ -1,3 +1,5 @@
+//the set is stored in exact order 
+
 import java.util.Set;
 import java.util.LinkedHashSet;
 
