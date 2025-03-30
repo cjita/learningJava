@@ -1,3 +1,5 @@
+//the set is stored in random order because it creates unique hash set 
+
 import java.util.Set;
 import java.util.HashSet;
 
